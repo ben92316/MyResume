@@ -7820,3 +7820,9 @@ div {
 .navbar {
   min-height: 0px;
 }
+
+/* line 176, ../sass/styles.scss */
+.foo {
+  margin-bottom: 100px;
+  margin-left: 100px;
+}
